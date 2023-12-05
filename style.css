@@ -80,6 +80,9 @@ body {
         width: 45%;
         margin-right: 12px;
     }
+    .closeElement{
+       font-size: 40px;
+    }
 }
 
 @media only screen and (min-width: 992px) {
@@ -93,6 +96,10 @@ body {
         width: 30%;
         margin-right: 12px;
     }
+
+    .closeElement{
+        font-size: 50px;
+    }
 }
 
 .closeElement {
@@ -100,7 +107,7 @@ body {
     padding: 10px; */
     font-weight: bold;
     cursor: pointer;
-    font-size: xx-large;
+    font-size: 50px;
     position: absolute;
     right: 10%;
     top:15%;
